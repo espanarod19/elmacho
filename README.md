@@ -1,2 +1,2 @@
 # elmacho
-Hay que calar esta madre :pizza: :perro:
+Hay que calar esta madre :pizza:, and :perro:
